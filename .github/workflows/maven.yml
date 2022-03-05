@@ -30,6 +30,3 @@ jobs:
       with:
         project-token: 'dd19504b035f4b74bad1d8e685b14bac'
         coverage-reports: target/site/jacoco/jacoco.xml
-               
-    - name: Junit Test Results
-       mvn -B test --file pom.xml
