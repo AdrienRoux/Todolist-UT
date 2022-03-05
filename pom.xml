@@ -76,7 +76,7 @@
     </dependencies>
 
     <properties>
-        <sonar.organization>ennasirimehdi</sonar.organization>
+        <sonar.organization>rouxadrien</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <build>
