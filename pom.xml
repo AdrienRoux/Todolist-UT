@@ -74,6 +74,13 @@
             </exclusions>
         </dependency>
     </dependencies>
+
+    <properties>
+        <!-- Optional URL to server. Default value is http://localhost:9000 -->
+        <sonar.host.url>
+            http://localhost:9000
+        </sonar.host.url>
+    </properties>
     <!--
     <properties>
         <maven.compiler.source>14</maven.compiler.source>
