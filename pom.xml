@@ -77,7 +77,7 @@
 
     <properties>
         <sonar.organization>rouxadrien</sonar.organization>
-        <sonar.host.url>https://sonarqube.io</sonar.host.url>
+        <sonar.host.url>https://localhost:9000</sonar.host.url>
     </properties>
     <build>
         <testSourceDirectory>src/test/java</testSourceDirectory>
