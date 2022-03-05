@@ -32,6 +32,6 @@ jobs:
         # Name of the check run
         name: Tests
         # Coma separated list of paths to test results
-        path: ""
+        path: "/"
 
         reporter: java-junit
